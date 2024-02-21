@@ -1,4 +1,6 @@
-# Landingpage and Swap Integration Sample
+# BARK: Landing Page & Swap Monorepo
+
+Integration
 
 To create a BARK website for test purposes using Next.js, a popular React framework:
 
